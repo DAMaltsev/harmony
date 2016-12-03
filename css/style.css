@@ -59,7 +59,8 @@ COMMON
 */
 
 body{
-    background-image: url("https://www.upwork.com/messages/att/804674843870003200");
+    background-image: url(https://www.upwork.com/messages/att/804674843870003200);
+    background:black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
